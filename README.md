@@ -1,9 +1,9 @@
-# Respond to Incident
+# Incident report analysis and respond
 
 ## Objective
 
 
-The Respond to Incident this project focus on responding the incident using NIST cybersecurity framework such as Identify, Protect, Detect, Respond, Recover. This activity presents a complete incident report analysis to establish. As a security analyst it is important to understand how to proper reassemble a security analysis by given that it helps to coordinate the team to help mitigate future attacks. 
+This project focus on responding the incident using NIST cybersecurity framework such as Identify, Protect, Detect, Respond, Recover. This activity presents a complete incident report analysis to establish. As a security analyst it is important to understand how to proper reassemble a security analysis by given that it helps to coordinate the team to help mitigate future attacks. 
 ### Skills Learned
 
 
